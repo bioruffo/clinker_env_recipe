@@ -9,4 +9,6 @@ conda env create -f clinker.yaml
 ```
 
 And of course you'll want to  
-`git clone https://github.com/Oshlack/Clinker` 
+`git clone https://github.com/Oshlack/Clinker`  
+
+(do not download release 1.32, use the repo, there is one bug "An attempt was made to assign to global variable files" that's been solved after release 1.32).
