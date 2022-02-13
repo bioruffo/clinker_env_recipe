@@ -10,7 +10,7 @@ dependencies:
   - python=2.7
   - r::r-essentials=3.6.0
   - bioconda::samtools=1.7
-  - bioconda::star=2.7.10a
+  - bioconda::star=2.5.3a
   - bioconda::bioconductor-gviz=1.30.0
   - bioconda::bioconductor-biomart=2.42.0
   - bioconda::bpipe=0.9.11
