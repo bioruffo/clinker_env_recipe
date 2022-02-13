@@ -1,5 +1,5 @@
 Working recipe for a conda env for Clinker dependencies. Includes python 2.7, samtools, STAR, R and the gviz and biomart R libraries.  
-(clinker is: https://github.com/Oshlack/Clinker)
+(Clinker is: https://github.com/Oshlack/Clinker)
 
 Usage:  
 ```
