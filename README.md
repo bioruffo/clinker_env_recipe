@@ -5,7 +5,7 @@ Usage:
 ```
 git clone https://github.com/bioruffo/clinker_env_recipe
 cd clinker_env_recipe
-conda create -f clinker.yaml
+conda env create -f clinker.yaml
 ```
 
 And of course you'll want to  
