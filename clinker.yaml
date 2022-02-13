@@ -1,0 +1,15 @@
+name: clinker
+
+channels:
+  - defaults
+  - r
+  - bioconda
+  - conda-forge
+
+dependencies:
+  - python=2.7
+  - r-essentials=3.6.0
+  - samtools=1.7
+  - star=2.7.10
+  - bioconductor-gviz=1.30.0
+  - bioconductor-biomart=2.42.0
