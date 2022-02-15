@@ -13,5 +13,6 @@ And of course you'll want to
 
 (do not download release 1.32, use the repo, there is one bug "An attempt was made to assign to global variable files" that's been solved after release 1.32).
 
-You should then set a CLINKERDIR variable:
-export CLINKERDIR=/path/to/Clinker
+You should then set a CLINKERDIR variable:  
+`export CLINKERDIR=/path/to/Clinker`  
+(You can have this line in your ~/.bashrc file.)
